@@ -8,7 +8,7 @@ public class NestedUjianSkripsi01 {
     
     System.out.println("masukan jumlah log bimbingan pembimbing 1 :");
     int BImbinganP1 = sc.nextInt();
-    System.out.println("masukan jumlah log bimbingan pembimbing 2 :");
+    System.out.println("masukan jumlah  log bimbingan pembimbing 2 :");
     int BimbinganP2 = sc.nextInt();
     String pesan="";
 
@@ -27,6 +27,6 @@ public class NestedUjianSkripsi01 {
         }
         System.out.println(pesan);
 
-        sc.close();  
+         
   }
 }
