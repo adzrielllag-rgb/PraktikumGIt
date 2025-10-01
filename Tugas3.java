@@ -15,7 +15,7 @@ import java.util.Scanner;
                 System.out.println("Akses ditolak, SKS kurang dari 12");
             }
         } else {
-            System.out.println("Akses ditolak");
+            System.out.println("Akses  ditolak");
         }
         sc.close();
     }
