@@ -25,7 +25,7 @@ public class swicthCetakKRS01 {
       case 8 : System.out.println("KRS semester 8 ditampilkan");
       break;
       default :
-      System.out.println("Semester tidak valid");
+      System.out.println("Semestertidak valid");
 
       sc.close();
     }
