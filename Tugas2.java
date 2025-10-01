@@ -9,7 +9,7 @@ public class Tugas2 {
     if (angka % 2 == 0 ) {
       System.out.println(angka + " adalah bilangan genap");
     } else {
-      System.out.println(angka + " adalah bilangan ganjil");
+      System.out.println(angka + " adalah bilangan  ganjil");
 
      sc.close();
     }
