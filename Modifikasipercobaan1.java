@@ -13,7 +13,7 @@ public class Modifikasipercobaan1 {
           } else {
           System.out.println("Registrasi ditolak. Silakan lunasi UKT terlebih dahulu");
 
-          input.close();
+           input.close(); 
           }
     } 
 }
